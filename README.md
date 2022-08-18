@@ -10,15 +10,12 @@ URL do curso -> [Bootstrap 4: Criando uma Landing Page Responsiva](https://curso
 
 ![Bootstrap 4: Criando uma Landing Page Responsiva](https://www.alura.com.br/assets/api/share/curso-bootstrap-landing-page.png)
 
-## Links Úteis &#x1F517;
-*
-
 ## Siglas &#x1F5FA;
-*
+* CDN - **C**ontent **D**elivery **N**etwork - Rede de Distribuição de Conteúdo.
 
-## Atalhos &#x2328;
-*
-
-## NOME_DA_SECAO &#x1F516;
-
-### NOME_DA_AULA
+## 01 - Instalando o Bootstrap e Implementando a Navbar &#x1F516;
+* Como instalar o Bootstrap.
+* Como o Bootstrap funciona utilizando classes para aplicar estilos pré-definidos.
+* Pesquisar na documentação e descobrir se o Bootstrap tem a funcionalidade que precisamos (e de que forma usamos isso!).
+* A ler o código do Bootstrap, interpretá-lo e fazer as modificações que precisamos.
+* O funcionamento do Flexbox (e a versão Bootstrap, Flex), uma das ferramentas de alinhamento poderosas do CSS.
