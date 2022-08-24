@@ -23,8 +23,12 @@ URL do curso -> [Bootstrap 4: Criando uma Landing Page Responsiva](https://curso
 * A ler o código do Bootstrap, interpretá-lo e fazer as modificações que precisamos.
 * O funcionamento do Flexbox (e a versão Bootstrap, Flex), uma das ferramentas de alinhamento poderosas do CSS.
 
-## 02 - Adicionando o Carrossel e Resolvendo Bugs
+## 02 - Adicionando o Carrossel e Resolvendo Bugs &#x1F516;
 * Ler mais um pouco da documentação do Bootstrap e usar seu componente `carousel`.
 * Ler o HTML e ir descobrindo o que fazem algumas partes do código do Bootstrap.
 * Utilizar o CSS para complementar nosso trabalho quando o Bootstrap não cobre 100%.
 * Trabalhar com elementos de tamanho fixo, como imagens; Formatar textos utilizando o Bootstrap.
+
+## 03 - Títulos, Textos e Ferramentas de Espaçamento &#x1F516;
+* Formatar elementos de texto com o Bootstrap.
+* Utilizar o Bootstrap para controlar larguras e alturas de `margin` e `padding`.
