@@ -37,3 +37,8 @@ URL do curso -> [Bootstrap 4: Criando uma Landing Page Responsiva](https://curso
 * Utilizar o componente card do Bootstrap.
 * Personalizar o componente quando necessário usando nossas próprias classes.
 * Adotar algumas tags semânticas em nosso HTML.
+
+## 05 - Alinhando Elementos com Bootstrap Grid &#x1F516;
+* Trabalhar mais com o componente card e personalizar as informações.
+* Fazer mais alguns ajustes de imagens.
+* Utilizar algumas ferramentas do Bootstrap Grid.

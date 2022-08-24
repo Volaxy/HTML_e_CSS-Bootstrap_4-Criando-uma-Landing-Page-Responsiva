@@ -20,3 +20,12 @@
 .special-border-color {
     border-color: darkred;
 }
+
+.card-image-position {
+    object-fit: cover;
+    height: 200px;
+}
+
+.card-width {
+    max-width: 17rem;
+}
