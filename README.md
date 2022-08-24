@@ -12,6 +12,7 @@ URL do curso -> [Bootstrap 4: Criando uma Landing Page Responsiva](https://curso
 
 ## Links Úteis &#x1F517;
 * [Guia sobre o Atributo data-](https://webdesign.tutsplus.com/pt/tutorials/all-you-need-to-know-about-the-html5-data-attribute--webdesign-9642) - Página de guia sobre o atributo `data-` nas tags HTML.
+* [Tag !important](https://css-tricks.com/when-using-important-is-the-right-choice/) - Site de explicação da tag `!important`.
 
 ## Siglas &#x1F5FA;
 * CDN - **C**ontent **D**elivery **N**etwork - Rede de Distribuição de Conteúdo.
@@ -42,3 +43,11 @@ URL do curso -> [Bootstrap 4: Criando uma Landing Page Responsiva](https://curso
 * Trabalhar mais com o componente card e personalizar as informações.
 * Fazer mais alguns ajustes de imagens.
 * Utilizar algumas ferramentas do Bootstrap Grid.
+
+## 06 - Modais e Últimos Ajustes &#x1F516;
+* Identificar alguns tipos de modais na documentação do Bootstrap.
+* Inserir modais em nosso código.
+* Estilizar e adaptar os modais ao nosso projeto.
+* Identificar onde podemos utilizar mais classes semânticas e fazer substituições.
+* Fazer pequenos ajustes de leiaute com o CSS.
+* Implementar um rodapé com elementos de texto simples.
