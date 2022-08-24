@@ -32,3 +32,8 @@ URL do curso -> [Bootstrap 4: Criando uma Landing Page Responsiva](https://curso
 ## 03 - Títulos, Textos e Ferramentas de Espaçamento &#x1F516;
 * Formatar elementos de texto com o Bootstrap.
 * Utilizar o Bootstrap para controlar larguras e alturas de `margin` e `padding`.
+
+## 04 - Conhecendo o HTML Semântico e Inserindo Cards &#x1F516;
+* Utilizar o componente card do Bootstrap.
+* Personalizar o componente quando necessário usando nossas próprias classes.
+* Adotar algumas tags semânticas em nosso HTML.
